@@ -1,0 +1,6 @@
+dans ce repertoire, vous trouverez le pdf du rapport, le fichier source "projet.py" en python, et les differents fichiers .txt utilisé pour les tests. il y a aussi 4 autres repertoires ou figurent les graphiques ainsi que les fichiers .txt correspondants.
+Chekirou Hakim 
+3801679
+
+
+Dien Thomas
